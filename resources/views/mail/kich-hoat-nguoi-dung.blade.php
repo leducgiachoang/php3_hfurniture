@@ -1,0 +1,1 @@
+<h1>Vui lòng <a href="{{ $link }}">Nhấn vào đây</a> để kích hoạt tài khoản của bạn</h1>
